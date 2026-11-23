@@ -1,5 +1,7 @@
 # Seven additional Lucas–Smith numbers
 
+[![verify](https://github.com/Kodjaoglanian/lucas-smith-numbers/actions/workflows/verify.yml/badge.svg)](https://github.com/Kodjaoglanian/lucas-smith-numbers/actions/workflows/verify.yml)
+
 **Dataset and reproducible search for new indices `n` such that the Lucas number `L(n)` is a Smith number.**
 
 ## Summary
