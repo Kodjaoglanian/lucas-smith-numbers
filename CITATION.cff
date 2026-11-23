@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: Seven additional Lucas–Smith numbers
+message: If you use these results or the verification code, please cite this repository.
+type: dataset
+authors:
+  - family-names: Kodjaoglanian
+    email: brunotulux20@gmail.com
+version: 1.0.0
+date-released: 2026-11-23
+license: MIT
+repository-code: https://github.com/Kodjaoglanian/lucas-smith-numbers
+url: https://github.com/Kodjaoglanian/lucas-smith-numbers
+keywords:
+  - Lucas numbers
+  - Smith numbers
+  - OEIS A395686
+  - computational number theory
+abstract: >-
+  Seven additional indices n for which the Lucas number L(n) is a Smith number:
+  1692, 1770, 1798, 1865, 1899, 2331 and 7474. Complete prime factorizations
+  were reconstructed from published tables and verified with independent
+  primality tests. The largest term, L(7474), has 1562 decimal digits.
