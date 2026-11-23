@@ -3,7 +3,8 @@ title: Seven additional Lucas–Smith numbers
 message: If you use these results or the verification code, please cite this repository.
 type: dataset
 authors:
-  - family-names: Kodjaoglanian
+  - given-names: Bruno
+    family-names: Kodjaoglanian
     email: brunotulux20@gmail.com
 version: 1.0.0
 date-released: 2026-11-23
